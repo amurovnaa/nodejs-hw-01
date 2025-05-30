@@ -1,1 +1,44 @@
-[]
+[
+  {
+    "id": "a129c8e5-921b-4c6f-bc80-04af6f1210c8",
+    "name": "Amy Skiles",
+    "phone": "1-245-318-7186",
+    "email": "Mose.Kunde-Gottlieb@gmail.com",
+    "job": "Internal Communications Manager"
+  },
+  {
+    "id": "c4c426a6-3bbe-44d0-8521-921782230c51",
+    "name": "Holly Zboncak",
+    "phone": "1-394-842-5857",
+    "email": "Amelia_Walsh-Wintheiser@gmail.com",
+    "job": "Regional Integration Representative"
+  },
+  {
+    "id": "2a1ae879-97ca-480c-b420-4a0b7e7bcffa",
+    "name": "Dr. Delia Christiansen",
+    "phone": "601.858.1264 x361",
+    "email": "Graciela_Gutkowski@gmail.com",
+    "job": "Dynamic Accounts Developer"
+  },
+  {
+    "id": "a3a7c864-ee86-4c34-a288-09e892b2b1a1",
+    "name": "Miss Johnnie Howe",
+    "phone": "531.986.0311",
+    "email": "Margot_Langosh91@hotmail.com",
+    "job": "Direct Division Consultant"
+  },
+  {
+    "id": "2131bf82-0f7c-41dd-9a2a-fc13678cc9cb",
+    "name": "Ignacio MacGyver",
+    "phone": "1-870-639-3532",
+    "email": "Maggie.McKenzie@gmail.com",
+    "job": "Internal Factors Producer"
+  },
+  {
+    "id": "15c6b960-61d0-4734-9f34-534c31c8adf5",
+    "name": "Rodney Streich DVM",
+    "phone": "(274) 234-1631 x30352",
+    "email": "Jadon.Lehner91@gmail.com",
+    "job": "Internal Brand Architect"
+  }
+]
